@@ -6,7 +6,7 @@
 </div>
 <h1 align="center">Hi everybody</h1>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/samuel-veštúr-51292923a">
+  <a href="https://www.linkedin.com/in/svestur">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/_samosato_/">
